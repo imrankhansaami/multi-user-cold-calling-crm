@@ -1,0 +1,6 @@
+{
+  "name": "Multi-User Cold Calling CRM",
+  "description": "A rapid mobile-optimized cold calling CRM and gamified sprint dashboard for small teams of 2-5 callers. Built with instant SIM dialing links, fast call outcome loggers, and automated webhook exports to Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
